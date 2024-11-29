@@ -33,7 +33,10 @@ body {
   transform: translate(-50%, -50%);
 }
 
-
+img{
+  width:70%;
+  object-fit:contain;
+}
 
 .content {
   display: flex;
